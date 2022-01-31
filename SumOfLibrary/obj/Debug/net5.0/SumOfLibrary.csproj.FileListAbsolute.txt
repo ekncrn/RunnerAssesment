@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\RunnerAssesment\SumOfLibrary\bin\Debug\net5.0\SumOfLibrary.deps.json
+C:\Users\Administrator\source\repos\RunnerAssesment\SumOfLibrary\bin\Debug\net5.0\SumOfLibrary.dll
+C:\Users\Administrator\source\repos\RunnerAssesment\SumOfLibrary\bin\Debug\net5.0\ref\SumOfLibrary.dll
+C:\Users\Administrator\source\repos\RunnerAssesment\SumOfLibrary\bin\Debug\net5.0\SumOfLibrary.pdb
+C:\Users\Administrator\source\repos\RunnerAssesment\SumOfLibrary\obj\Debug\net5.0\SumOfLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\RunnerAssesment\SumOfLibrary\obj\Debug\net5.0\SumOfLibrary.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\RunnerAssesment\SumOfLibrary\obj\Debug\net5.0\SumOfLibrary.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\RunnerAssesment\SumOfLibrary\obj\Debug\net5.0\SumOfLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\RunnerAssesment\SumOfLibrary\obj\Debug\net5.0\SumOfLibrary.dll
+C:\Users\Administrator\source\repos\RunnerAssesment\SumOfLibrary\obj\Debug\net5.0\ref\SumOfLibrary.dll
+C:\Users\Administrator\source\repos\RunnerAssesment\SumOfLibrary\obj\Debug\net5.0\SumOfLibrary.pdb
