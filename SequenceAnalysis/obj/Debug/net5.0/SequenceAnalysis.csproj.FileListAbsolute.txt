@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\RunnerAssesment\SequenceAnalysis\bin\Debug\net5.0\SequenceAnalysis.deps.json
+C:\Users\Administrator\source\repos\RunnerAssesment\SequenceAnalysis\bin\Debug\net5.0\SequenceAnalysis.dll
+C:\Users\Administrator\source\repos\RunnerAssesment\SequenceAnalysis\bin\Debug\net5.0\ref\SequenceAnalysis.dll
+C:\Users\Administrator\source\repos\RunnerAssesment\SequenceAnalysis\bin\Debug\net5.0\SequenceAnalysis.pdb
+C:\Users\Administrator\source\repos\RunnerAssesment\SequenceAnalysis\obj\Debug\net5.0\SequenceAnalysis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\RunnerAssesment\SequenceAnalysis\obj\Debug\net5.0\SequenceAnalysis.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\RunnerAssesment\SequenceAnalysis\obj\Debug\net5.0\SequenceAnalysis.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\RunnerAssesment\SequenceAnalysis\obj\Debug\net5.0\SequenceAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\RunnerAssesment\SequenceAnalysis\obj\Debug\net5.0\SequenceAnalysis.dll
+C:\Users\Administrator\source\repos\RunnerAssesment\SequenceAnalysis\obj\Debug\net5.0\ref\SequenceAnalysis.dll
+C:\Users\Administrator\source\repos\RunnerAssesment\SequenceAnalysis\obj\Debug\net5.0\SequenceAnalysis.pdb
